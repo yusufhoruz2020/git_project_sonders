@@ -1,10 +1,10 @@
 package git_project_sonders;
 
-public class OrtakCalisma {
+public class SonDersTekrar {
 
 	public static void main(String[] args) {
+		System.out.println("21:55 master branch");
 		
-		System.out.println("2020 github..");
 
 	}
 
